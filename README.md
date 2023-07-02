@@ -27,12 +27,12 @@ The Investment Advisor project is a highly sophisticated data analytics endeavor
 ## Analysis Generated
 
 The Investment Advisor project yields the following key analyses:
+![Dashoard 1](https://github.com/nirmalakash993/Investment-Advisor/assets/132489081/7c8a8f46-7e45-452e-9a88-29af05249472)
+![Dashboard2](https://github.com/nirmalakash993/Investment-Advisor/assets/132489081/24461b99-04a0-459a-a4c1-d71fd2bced2c)
+![Dashboard 3](https://github.com/nirmalakash993/Investment-Advisor/assets/132489081/4a59e7fb-5eab-4cb7-91a3-f57debe9992b)
+![Dashboard 4](https://github.com/nirmalakash993/Investment-Advisor/assets/132489081/f8524b9e-0829-4b22-937c-5711ca3c84fa)
 
-- **Risk Categorization**: By leveraging an innovative risk assessment framework, the project categorizes companies into four distinct risk categories: high risk-taking, moderate risk-taking, risk-taking, and low risk-taking. This allows investors to align their investment strategies with their desired risk appetite.
 
-- **Top Investment Opportunities**: Through rigorous analysis and meticulous filtering, the project identifies and presents the top five investment opportunities within each risk category. These recommendations are driven by comprehensive evaluations of dividend per share, ensuring the selection of high-potential investment options.
-
-- **Money Available for Investment**: By analyzing income and expense data, the project calculates the "money available for investment." This crucial metric provides investors with a clear understanding of their financial resources for optimal investment allocation.
 
 ## Future Scope
 
